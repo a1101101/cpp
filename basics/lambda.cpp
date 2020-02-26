@@ -1,6 +1,3 @@
-/*
-- int mainの中で関数処理がしたい
-*/
 #include <iostream>
 using namespace std;
 
