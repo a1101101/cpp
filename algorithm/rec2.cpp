@@ -5,7 +5,7 @@ using namespace std;
 
 //単位処理
 void prt(int i){
-	cout<<i<<endl;
+	printf("%d\n",i);
 }
 
 //再帰定義
