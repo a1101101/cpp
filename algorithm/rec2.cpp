@@ -1,4 +1,5 @@
 //ループの再帰定義
+//実際の開発では再帰は使わないのが原則
 #include <iostream>
 using namespace std;
 
