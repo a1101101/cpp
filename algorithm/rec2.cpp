@@ -1,4 +1,4 @@
-//ループの再帰定義
+//ループの再帰定義、再帰を使うべきでない例
 //メモリ管理のない再帰は使わないのが原則
 #include <iostream>
 using namespace std;
