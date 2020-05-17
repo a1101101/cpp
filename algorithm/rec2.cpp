@@ -1,5 +1,6 @@
 //ループの再帰定義
 //メモリ管理のない再帰は使わないのが原則
+//末尾再帰化できるか？
 #include <iostream>
 using namespace std;
 
