@@ -1,4 +1,4 @@
-//スタックオーバーフローの懸念
+//スタックオーバーフローになりそうな例
 #include <iostream>
 using namespace std;
 
