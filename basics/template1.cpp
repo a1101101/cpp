@@ -1,3 +1,4 @@
+//微分係数を求める
 #include <iostream>
 #include <vector>
 using namespace std;
