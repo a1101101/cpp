@@ -26,8 +26,7 @@ int main(){
 	scanf("%d",&n);
 	printf("\n");
 	
-	/*
-	//ループ：n=65000で確認
+	/*ループ：n=65000で確認
 	printf("loop:\n");
 	for(int i=0;i<n;i++){prt(i+1);}
 	printf("\n");
