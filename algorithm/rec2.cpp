@@ -35,14 +35,9 @@ int main(){
 	
 	/*再帰
 	上限u: 64000<=u<65000
-	エラー出力できず
 	*/
 	printf("recursive:\n");
-	try{
-		rec(n);
-	}catch(exception& e){
-		printf("ERROR!!");
-	}
-	
+	rec(n);
+		
 	return 0;
 }
