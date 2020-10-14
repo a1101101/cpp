@@ -1,4 +1,4 @@
-//微分係数を求める
+//整数係数多項式の微分係数
 #include <iostream>
 #include <vector>
 using namespace std;
