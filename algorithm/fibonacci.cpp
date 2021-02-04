@@ -1,3 +1,4 @@
+//フィボナッチ数列
 #include <iostream>
 using namespace std;
 
